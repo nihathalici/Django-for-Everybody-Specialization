@@ -5,7 +5,7 @@ This 4-course certificate, developed by University of Michigan introduces Python
 | Course | Description |
 | --- | --- |
 | `Web Application Technologies and Django` | In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server.|
-| --- | --- |
+
 
 
 Links and Appendix
