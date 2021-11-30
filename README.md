@@ -15,3 +15,4 @@ Offered by University of Michigan
 
 - Coursera: https://www.coursera.org/home
 - Django for Everybody Specialization: https://www.coursera.org/specializations/django
+- Dr. Chuck's DJ4E - Django for Everybody: https://dj4e.com/
