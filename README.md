@@ -14,6 +14,8 @@ Links and Appendix
 ========================================================
 Offered by University of Michigan
 
+Taught by Charles Russell Severance
+
 
 - Coursera: https://www.coursera.org/home
 - Django for Everybody Specialization: https://www.coursera.org/specializations/django
